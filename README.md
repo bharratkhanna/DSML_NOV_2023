@@ -1,5 +1,8 @@
 # DSML_NOV_2023
- Learning Git & Github
+ ##### Learning Git & Github
+ This file tracks my learning assignments and practce for Git & Github
+
+## Assignment
 
 	This is created by Bharrat Khanna
 
